@@ -44,7 +44,7 @@ class _WorksScreenState extends State<WorksScreen> {
                     height: MediaQuery.of(context).size.height * 0.1,
                     child: const AutoSizeText(
                       "     Durante a faculdade, desenvolvi varias atividades de programação. "
-                      "Aqui está alguns exemplos:",
+                      "Aqui estão alguns exemplos:",
                       style: TextStyle(
                         fontSize: 17,
                       ),
